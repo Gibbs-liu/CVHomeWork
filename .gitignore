@@ -1,0 +1,5 @@
+groundtruth/
+raw_data/
+test_gt/
+test_raw/
+u-net-release-2015-10-02.tar.gz

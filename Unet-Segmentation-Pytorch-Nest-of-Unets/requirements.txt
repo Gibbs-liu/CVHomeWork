@@ -1,0 +1,9 @@
+torchvision
+torchsummary
+tensorboardx
+natsort
+numpy
+pillow
+scipy
+scikit-image
+sklearn
