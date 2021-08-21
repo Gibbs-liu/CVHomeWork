@@ -60,7 +60,7 @@ if __name__ == "__main__":
     net = Unet(n_channels=3, n_classes=3)
     net.to(device=device)
     data_path = '.'
-    train_net(net, device, data_path, epochs=50, batch_size=1)
+    train_net(net, device, data_path, epochs=50, batch_size=2)
 
 
 
